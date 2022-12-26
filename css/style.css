@@ -1,0 +1,16 @@
+body {
+    background-color: azure;
+}
+img {
+    height: 150px;
+}
+hr {
+    border-color:rgb(197, 193, 193);
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 5px;
+    
+}
+h1, h3{
+    color:darkcyan
+}
